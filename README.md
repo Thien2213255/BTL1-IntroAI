@@ -4,6 +4,7 @@ Game Sokoban cổ điển với AI solver tự động, viết bằng Python.
 
 ## 🚀 Cài Đặt & Chạy Game
 Sử dụng python 3.13.x
+
 **Chỉ cần chạy**:
 ```bash
 python sokoban_solver.py
